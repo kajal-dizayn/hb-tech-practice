@@ -33,3 +33,111 @@
   padding-left: 8px;
 }
 
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[9].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[11].oneOf[9].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[11].oneOf[9].use[5]!./app/components/HomeSlide6ImageContent/HomeSlide6ImageContent.module.scss ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.HomeSlide6ImageContent_HomeSlide6ImageContent___db60 {
+  width: 100%;
+  height: -moz-fit-content;
+  height: fit-content;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 5.5%;
+  padding-right: 5.4%;
+  margin-top: 113px;
+}
+.HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_left__o40qh {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  max-width: 533px;
+}
+.HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_left__o40qh .HomeSlide6ImageContent_title__GbTRp {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #18181b;
+  margin-bottom: 16px;
+}
+.HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_left__o40qh .HomeSlide6ImageContent_description__WjjCd {
+  width: 100%;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #767d90;
+  margin-bottom: 32px;
+}
+.HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_imageContainer__5uSM5 {
+  width: 34.86%;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_imageContainer__5uSM5 img {
+  width: 100%;
+  height: auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+@media (max-width: 900px) {
+  .HomeSlide6ImageContent_HomeSlide6ImageContent___db60 {
+    width: 100%;
+    height: -moz-fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column-reverse;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-top: 80px;
+    max-width: unset;
+  }
+  .HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_left__o40qh {
+    margin-top: 44px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: unset;
+  }
+}
+@media (max-width: 900px) and (max-width: 600px) {
+  .HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_left__o40qh .HomeSlide6ImageContent_title__GbTRp {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_left__o40qh .HomeSlide6ImageContent_description__WjjCd {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+  }
+  .HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_left__o40qh {
+    width: 100%;
+  }
+}
+@media (max-width: 900px) {
+  .HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_imageContainer__5uSM5 {
+    width: 100%;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+  .HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_imageContainer__5uSM5 img {
+    width: 100%;
+    height: auto;
+    -o-object-fit: contain;
+       object-fit: contain;
+  }
+}
+@media (max-width: 900px) and (max-width: 600px) {
+  .HomeSlide6ImageContent_HomeSlide6ImageContent___db60 .HomeSlide6ImageContent_imageContainer__5uSM5 {
+    width: 100%;
+  }
+}

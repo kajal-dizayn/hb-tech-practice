@@ -1,4 +1,4 @@
-// File: /Users/dizayn091/Desktop/hbtech_tailwind/app/page.tsx
+// File: /Users/dizayn091/Documents/GitHub/hb-tech-practice/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

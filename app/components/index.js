@@ -7,6 +7,7 @@ import HomeSlide4 from "./HomeSlide4";
 import HomeSlide5 from "./HomeSlide5";
 import Footer from "./Footer";
 import Accrodian from "./Accrodian";
+import HomeSlide6ImageContent from "./HomeSlide6ImageContent/HomeSlide6ImageContent";
 
 export {
   Navbar,
@@ -18,4 +19,5 @@ export {
   HomeSlide5,
   Footer,
   Accrodian,
+  HomeSlide6ImageContent,
 };

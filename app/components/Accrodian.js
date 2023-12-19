@@ -17,8 +17,8 @@ const Accrodian = () => {
     <div
       className={
         show
-          ? "grad2 w-[543px] h-[262px] rounded-2xl pl-[31px] pr-[30px] mb-10 pt-[53px] pb-3 flex justify-between duration-300 ease-in-out"
-          : "w-[482px]  mb-10 bg-transparent h-[56px] flex  items-center justify-between"
+          ? "[background:linear-gradient(180deg,rgba(239.06,250.75,255,0)_0%,rgb(208.46,223.89,229.5)_100%)] opacity-50 w-[543px] h-[262px] rounded-2xl pl-[31px] pr-[30px] mb-10 pt-[53px] pb-3 flex justify-between duration-300 ease-in-out"
+          : "w-[482px] pl-[31px] pr-[30px] mb-10 bg-transparent h-[56px] flex  items-center justify-between"
       }
       onClick={handleClick}
     >
@@ -36,8 +36,8 @@ const Accrodian = () => {
           <h1
             className={
               show
-                ? "mb-[3px] text-sm font-semibold text-[#18181B] leading-8"
-                : " text-sm font-semibold text-[#18181B] leading-8 mb-5"
+                ? "mb-[3px] text-sm font-body-medium text-[#18181B] leading-8"
+                : " text-sm font-body-medium text-[#18181B] leading-8 mb-5"
             }
           >
             Web Development

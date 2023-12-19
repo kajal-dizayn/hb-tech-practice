@@ -22,7 +22,7 @@ const HomeSlide4 = () => {
           <Accrodian />
           <Accrodian />
         </div>
-        <div className="w-[30vw] max-w-[495px] h-[642px]">
+        <div className="w-[30vw] max-w-[495px] h-fit">
           <Image src={img} className="w-[100%] h-fit object-contain" />
         </div>
       </div>

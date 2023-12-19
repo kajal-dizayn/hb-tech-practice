@@ -1,4 +1,6 @@
 import React from "react";
+
+import img from "./../public/assets/Slide3.png";
 import {
   Navbar,
   HomeSlide1,
@@ -6,6 +8,7 @@ import {
   HomeSlide3,
   HomeSlide4,
   HomeSlide5,
+  HomeSlide6ImageContent,
   Footer,
 } from "./components/index";
 const Home = () => {
@@ -17,6 +20,15 @@ const Home = () => {
       <HomeSlide3 />
       <HomeSlide4 />
       <HomeSlide5 />
+      <HomeSlide6ImageContent
+        description={
+          "uuytyutqufqwyftqwbv hgfha hgdhas gjag hja hjgasdf jdhgasjk mjghja"
+        }
+        image={img}
+        title={"helllllllll"}
+        link={"https://www.google.com/"}
+      />
+
       <Footer />
     </div>
   );
